@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bullet.png</file>
+        <file>castle.png</file>
+        <file>castle2.png</file>
+        <file>assassin.png</file>
+        <file>knight2.png</file>
+        <file>priest.png</file>
+        <file>samurai2.png</file>
+        <file>assassin2.png</file>
+        <file>samurai.png</file>
+        <file>knight.png</file>
+        <file>priest2.png</file>
+        <file>knight3.png</file>
+        <file>mana1.png</file>
+        <file>mana2.png</file>
+        <file>mana3.png</file>
+        <file>mana4.png</file>
+        <file>mana5.png</file>
+        <file>mana6.png</file>
+        <file>mana7.png</file>
+        <file>mana8.png</file>
+        <file>mana9.png</file>
+        <file>mana10.png</file>
+        <file>mana0.png</file>
+        <file>bullet180.png</file>
+        <file>bullet200.png</file>
+        <file>bullet140.png</file>
+        <file>bullet100.png</file>
+        <file>bullet40.png</file>
+        <file>bullet80.png</file>
+    </qresource>
+</RCC>
